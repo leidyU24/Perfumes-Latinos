@@ -1,0 +1,27 @@
+.grid{
+    display: flex;
+}
+
+main{
+    margin: 20px;
+}
+
+div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+p{
+    margin-left: 10px;
+}
+
+img{
+    width: 120px;
+    height: 66px;
+}
+
+header{
+    background-color: rgb(221, 224, 226);
+}
